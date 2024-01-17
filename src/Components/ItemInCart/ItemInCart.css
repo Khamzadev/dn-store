@@ -1,0 +1,14 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.item-img {
+  width: 80px;
+}
+
+.item-title {
+  font-size: 20px;
+}

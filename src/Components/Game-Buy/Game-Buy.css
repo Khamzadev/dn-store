@@ -1,0 +1,9 @@
+.game-buy {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 15px;
+}
+
+.game-buy__price {
+  margin-right: 5px;
+}
